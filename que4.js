@@ -4,5 +4,6 @@ for(x=1 ; x=5 ; x++){
     continue;
    }
   fac*=x;
-  console.log(fac)
+ 
 }
+ console.log(fac)
